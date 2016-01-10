@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis_Project1
-Exploratory Data Analysis Course Project 1 
+###Exploratory Data Analysis Course Project 1 
 
 #Instructions
 
@@ -19,7 +19,7 @@ Sub_metering_1: energy sub-metering No. 1 (in watt-hour of active energy). It co
 Sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.
 Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
 
-##eview criterialess 
+##review criterialess 
 ###Criteria
 
 Was a valid GitHub URL containing a git repository submitted?
@@ -27,7 +27,8 @@ Does the GitHub repository contain at least one commit beyond the original fork?
 Please examine the plot files in the GitHub repository. Do the plot files appear to be of the correct graphics file format?
 Does each plot appear correct?
 Does each set of R code appear to create the reference plot?
-Reviewing the Assignments
+
+###Reviewing the Assignments
 
 Keep in mind this course is about exploratory graphs, understanding the data, and developing strategies. Here's a good quote from a swirl lesson about exploratory graphs: "They help us find patterns in data and understand its properties. They suggest modeling strategies and help to debug analyses. We DON'T use exploratory graphs to communicate results."
 
@@ -37,14 +38,15 @@ As you do your evaluation, please keep an open mind and focus on the positive. T
 
 To that end, keep the following things in mind:
 
-DO
+###DO
 
 Review the source code.
 Keep an open mind and focus on the positive.≤/li>
 When in doubt, err on the side of giving too many points, rather than giving too few.
 Ask yourself if a plot might answer a question for the person who created it.
 Remember that not everyone has the same statistical background and knowledge.
-DON'T:
+
+###DON'T:
 
 Deduct just because you disagree with someone's statistical methods.
 Deduct just because you disagree with someone's plotting methods.
